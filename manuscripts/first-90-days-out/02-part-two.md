@@ -2,7 +2,7 @@
 
 ## LOOK AT WHAT YOU WERE GIVEN
 
-You've made it a month. That's worth saying out loud, because the first month is usually the loudest. If the ground still feels like it's moving, that's normal. If it has gone strangely quiet, that's normal too.
+You've made it a month. That's worth saying out loud, because for many people the first month is the loudest. If the ground still feels like it's moving, that's normal. If it has gone strangely quiet, that's normal too.
 
 Part Two is where you start looking at what you were handed: the beliefs, habits, and rules you absorbed before you could choose them. You'll sort them, grieve some of them, and keep some of them. You're not trying to finish anything this month. You're trying to see clearly.
 
@@ -30,7 +30,7 @@ Take anything you were taught and put it in one of three piles.
 
 **Unexamined.** You don't know yet. This pile is allowed to be the biggest one for a long time. Examples: what you think about prayer, whether the Bible is special, what you think happens after death.
 
-Most people are surprised by two things when they do this. First, the "keep" pile is longer than they expected. Second, things they thought they'd rejected keep turning up in their reactions, which means they belong in "unexamined," not "return."
+Many people are surprised by two things when they do this. First, the "keep" pile is longer than they expected. Second, things they thought they'd rejected keep turning up in their reactions, which means they belong in "unexamined," not "return."
 
 ### 6.3 SEPARATING THE TEACHING FROM THE TEACHER
 
@@ -66,15 +66,15 @@ When people leave a faith community, they often lose things nobody names as loss
 
 And the strange one: you can grieve things you're glad to be rid of. Someone who escaped a controlling marriage can still grieve the marriage they hoped for. You can grieve a church that hurt you.
 
-### 7.2 WHAT GRIEF RESEARCH ACTUALLY SAYS
+### 7.2 WHAT GRIEF RESEARCHERS HAVE PROPOSED
 
-You've probably heard of the "five stages of grief": denial, anger, bargaining, depression, acceptance. They come from Elisabeth Kübler-Ross's 1969 book *On Death and Dying*, which was based on interviews with people facing their own deaths, not people grieving someone else, and certainly not people leaving a religion. Kübler-Ross herself later said the stages were never meant to be a tidy sequence.
+You've probably heard of the "five stages of grief": denial, anger, bargaining, depression, acceptance. They come from Elisabeth Kübler-Ross's 1969 book *On Death and Dying*, which was based on interviews with people facing their own deaths, not people grieving someone else, and certainly not people leaving a religion. In her last book, *On Grief and Grieving* (written with David Kessler and published in 2005, the year after her death), the authors write that the stages "were never meant to help tuck messy emotions into neat packages," and that people don't move through them in a fixed order.
 
 Two later ideas from grief research fit this situation better.
 
-**Ambiguous loss.** The family therapist Pauline Boss coined this term for losses with no clear ending: a loved one who is physically present but psychologically gone, or physically gone with no confirmation of death. Leaving a faith often looks like this. Your parents are still alive, but the relationship you had with them is gone. Your church is still there, two miles away, but you can't go back. Boss's point is that ambiguous losses are harder to grieve because there's no ritual and no moment where everyone agrees something has ended.
+**Ambiguous loss.** The family therapist Pauline Boss developed this idea, beginning in the 1970s with families of soldiers missing in action, for losses with no clear ending: a loved one who is physically present but psychologically gone, or physically gone with no confirmation of death. Boss wrote about missing or changed people, not about religion. Applying her idea to leaving a faith is our extension, but many people find it fits. Your parents are still alive, but the relationship you had with them is gone. Your church is still there, two miles away, but you can't go back. Boss's point is that ambiguous losses are especially hard because they resist closure: there's no clear ending, often no ritual, and other people may not recognize that anything was lost, so grief can get "frozen."
 
-**The dual process model.** Margaret Stroebe and Henk Schut described healthy grieving as moving back and forth between two modes: facing the loss directly (crying, remembering, writing the letter) and turning away from it to rebuild ordinary life (going to work, learning something new, laughing at a dumb show). Moving back and forth isn't avoidance. It's how grief works.
+**The dual process model.** Margaret Stroebe and Henk Schut described coping with bereavement as moving back and forth between two modes: facing the loss directly (crying, remembering, writing the letter) and turning away from it to rebuild ordinary life (going to work, learning something new, laughing at a dumb show). In their model, taking breaks from grief isn't a failure to grieve. The back-and-forth itself is part of coping well. Their research was about the death of a loved one, but the idea translates.
 
 ### 7.3 MAKING YOUR OWN RITUAL
 
@@ -102,34 +102,34 @@ There's no correct ritual. The point is to mark the ending yourself instead of w
 
 ### 8.1 WHAT "PURITY CULTURE" MEANS
 
-"Purity culture" is the name people now use for a movement in American evangelicalism that peaked in the 1990s and 2000s. It included:
+"Purity culture" is the name people now use for a movement in American evangelicalism that peaked in the 1990s and early 2000s. It included:
 
-- abstinence pledges and purity rings, often through programs like True Love Waits, which the Southern Baptist Convention launched in 1993
-- books like Joshua Harris's *I Kissed Dating Goodbye* (1997), which told teenagers to avoid dating altogether
+- abstinence pledges and purity rings, often through programs like True Love Waits, which the Southern Baptist Convention's Sunday School Board (now Lifeway) launched in 1993
+- books like Joshua Harris's *I Kissed Dating Goodbye* (1997), which told young Christians to avoid dating altogether
 - the idea that sexual purity was a gift you'd give your future spouse, and that losing it made you "used"
 - modesty teaching that held girls responsible for boys' thoughts
 - the promise, sometimes explicit, that waiting would be rewarded with a great marriage and great sex
 
 If you grew up in a different decade or a different branch of the church, you may recognize some of this and not the rest.
 
-In 2018, Harris publicly said he no longer agreed with *I Kissed Dating Goodbye*, and its publisher stopped printing it at his request. A book that shaped a generation was withdrawn by its own author. It's worth knowing that, if you were raised on it.
+In October 2018, Harris publicly apologized for *I Kissed Dating Goodbye*, saying he no longer agreed with its central idea that dating should be avoided. With his publisher's agreement, he discontinued the book and its follow-up titles, which would not be reprinted once existing copies sold out. A book that shaped a generation was retired by its own author. It's worth knowing that, if you were raised on it.
 
 ### 8.2 WHAT PEOPLE CARRY OUT OF IT
 
-The journalist Linda Kay Klein spent twelve years interviewing women raised in purity culture for her book *Pure* (2018). Many of them described:
+The writer Linda Kay Klein spent twelve years interviewing women raised in purity culture for her book *Pure* (2018), which combines those interviews with her own story. Many of the women she spoke with described:
 
 - shame and anxiety around sex that didn't go away after marriage
 - feeling disconnected from their own bodies
 - fear that their desires made them dangerous
 - difficulty knowing what they wanted, because they'd been trained to suppress the question
 
-A large survey of evangelical women by Sheila Wray Gregoire and her co-authors, published as *The Great Sex Rescue* (2021), found that women who had believed certain purity teachings as teenagers reported more sexual pain and less satisfaction in marriage. Gregoire writes from inside evangelicalism, which makes the findings harder for her own readers to wave away.
+A survey of more than 20,000 mostly evangelical Christian women by Sheila Wray Gregoire and her co-authors, published as *The Great Sex Rescue* (2021), found that women who had absorbed certain evangelical teachings about sex, such as the idea that sex is a wife's obligation, were more likely to report sexual pain and lower sexual satisfaction in marriage. Two cautions: the survey shows associations, not proof that the teachings caused the problems, and its respondents volunteered rather than being randomly selected. Gregoire writes from inside evangelicalism, which gives the findings weight with her own readers, though some conservative critics dispute them.
 
 Purity culture didn't only affect women. Men describe being taught that they were one glance away from lust at all times, and that their bodies were enemies to be managed. LGBTQ+ people were often taught that their bodies were a problem with no solution.
 
 ### 8.3 WHAT HELPS
 
-- **Unlearning takes longer than learning.** You absorbed this over years. It won't leave in a weekend.
+- **Unlearning takes time.** You absorbed this over years. It won't leave in a weekend.
 - **Your body isn't a moral test.** Hunger, desire, rest, and pleasure are normal parts of being an animal with a nervous system.
 - **Talk to the right professional.** If you're experiencing sexual pain or anxiety, a medical doctor and a sex-positive therapist can help. Pelvic floor physical therapy is a real specialty. You're allowed to ask a provider whether they have experience with clients from conservative religious backgrounds.
 - **Your timeline is yours.** Some people react to purity culture by doing everything they were forbidden, all at once. Some people want to go slowly. Neither is the right way to heal. Safety and consent still matter, for you as much as anyone.
@@ -215,11 +215,11 @@ Many high-control churches teach in absolutes. Saved or lost. Heaven or hell. Tr
 
 When people leave, they often keep the bins and just swap the labels. The church used to be all good and now it's all bad. Their parents used to be heroes and now they're villains. They used to be sure God was real, and now they're sure, with the same intensity, that anyone who believes is a fool.
 
-This is common, and it usually softens with time. But it helps to notice it.
+This is common, and for many people it softens with time. But it helps to notice it.
 
 ### 10.2 WHAT PSYCHOLOGY CALLS IT
 
-Cognitive therapists call this pattern **all-or-nothing thinking** (sometimes "black-and-white" or "dichotomous" thinking). It appears in the lists of cognitive distortions developed by Aaron Beck and made popular by David Burns in *Feeling Good* (1980). It isn't unique to religion. People use it in diets, relationships, and politics. Religion that teaches in absolutes just gives it a lot of practice.
+Cognitive therapists call this pattern **all-or-nothing thinking** (sometimes "black-and-white" or "dichotomous" thinking). Aaron Beck described "dichotomous thinking" in his early work on cognitive therapy, and David Burns gave it the name "all-or-nothing thinking" in his popular book *Feeling Good* (1980). It isn't unique to religion. People use it in diets, relationships, and politics. Religion that teaches in absolutes just gives it a lot of practice.
 
 ### 10.3 WHAT FAITH-DEVELOPMENT WRITERS SAY
 
@@ -292,19 +292,20 @@ A simple exercise: when you catch yourself putting something in a bin, try writi
 ## SOURCES · PART TWO
 
 **Chapter 6**
-- No outside claims. Sorting exercise adapted from common therapeutic practice.
+- No outside claims. The sorting exercise is our own.
 
 **Chapter 7**
 - Elisabeth Kübler-Ross, *On Death and Dying* (Macmillan, 1969).
-- Elisabeth Kübler-Ross and David Kessler, *On Grief and Grieving* (Scribner, 2005), where Kübler-Ross notes the stages were not meant to be linear. VERIFY page reference.
-- Pauline Boss, *Ambiguous Loss: Learning to Live with Unresolved Grief* (Harvard University Press, 1999).
-- Margaret Stroebe and Henk Schut, "The Dual Process Model of Coping with Bereavement: Rationale and Description," *Death Studies* 23, no. 3 (1999): 197–224.
+- Elisabeth Kübler-Ross and David Kessler, *On Grief and Grieving: Finding the Meaning of Grief through the Five Stages of Loss* (Scribner, 2005), published after Kübler-Ross's death in 2004. Quotation from the opening chapter on the five stages. CHECK PAGE NUMBER IN PRINT COPY.
+- Pauline Boss, *Ambiguous Loss: Learning to Live with Unresolved Grief* (Harvard University Press, 1999). On the origins of the concept in Boss's 1970s research with families of soldiers missing in action: ambiguousloss.com.
+- Margaret Stroebe and Henk Schut, "The Dual Process Model of Coping with Bereavement: Rationale and Description," *Death Studies* 23, no. 3 (1999): 197–224. doi:10.1080/074811899201046.
 
 **Chapter 8**
-- True Love Waits: launched by the Southern Baptist Convention's Sunday School Board (now Lifeway) in 1993. VERIFY with Lifeway's own history page.
-- Joshua Harris, *I Kissed Dating Goodbye* (Multnomah, 1997). Harris's 2018 statement and the publisher's decision to stop printing: VERIFY date and wording from his published statement.
-- Linda Kay Klein, *Pure: Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free* (Touchstone, 2018).
-- Sheila Wray Gregoire, Rebecca Gregoire Lindenbach, and Joanna Sawatsky, *The Great Sex Rescue* (Baker Books, 2021). VERIFY survey size and the specific findings quoted.
+- Lifeway, "True Love Waits History" (Lifeway's own history document). Created by Richard Ross and Jimmy Hester at the Baptist Sunday School Board (renamed LifeWay in 1998); first pledge cards signed February 1993.
+- Joshua Harris, *I Kissed Dating Goodbye* (Multnomah, 1997).
+- Joshua Harris, statement on *I Kissed Dating Goodbye*, October 2018, reported by Boundless (Focus on the Family) and Christian Post, October 23, 2018. CHECK THE ORIGINAL POST OR AN ARCHIVED COPY BEFORE PRINT.
+- Linda Kay Klein, *Pure: Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free* (Touchstone, 2018). "Twelve years" per the publisher's description.
+- Sheila Wray Gregoire, Rebecca Gregoire Lindenbach, and Joanna Sawatsky, *The Great Sex Rescue* (Baker Books, 2021). Survey of more than 20,000 women, conducted November 2019 to January 2020 (greatsexrescue.com). Not peer-reviewed; findings are correlational. CHECK THE OBLIGATION-SEX AND PAIN FINDINGS AGAINST THE BOOK'S CHAPTERS BEFORE PRINT.
 
 **Chapter 9**
 - No outside claims. Scripts are original.

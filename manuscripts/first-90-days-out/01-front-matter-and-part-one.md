@@ -78,7 +78,13 @@ If you have the PDF, print the workbook pages, or keep a plain notebook next to 
 
 ### A NOTE ON WHO WROTE THIS
 
-[FOUNDER SECTION: TO BE WRITTEN WITH YOU. Suggested length: one page. Suggested contents: where you came from, roughly when things started to shift, why you built What They Skipped, and one honest sentence about what you still don't know.]
+This workbook was written by a trans man who spent more than ten years leading Bible studies. That means he has been on both sides of the folding table: the one passing out the handouts, and later the one the handouts were about.
+
+By training he is an epidemiologist, and he spent fifteen years building supply chain systems. Neither job is glamorous, but both teach the same habit: when something goes wrong, you don't blame the person standing closest to the problem. You trace the chain. Where did this come from? Who handled it? What was it exposed to on the way? This workbook applies that habit to a different kind of problem: a person whose whole world was built on one set of answers, standing in the middle of the floor after it shifted.
+
+He went through his own version of these ninety days. He took apart the theology he was handed and rebuilt from the studs. Some walls didn't pass inspection. Some did. He mentions that only so you know where he's standing, not to suggest you should end up standing there too. If you finish this book somewhere completely different from where he landed, and you got there honestly and in one piece, the book did its job.
+
+He is not a therapist, and this book doesn't pretend otherwise. What it offers is what he wished someone had handed him early on: practical steps, honest context with the sources named, and permission to take this one page at a time.
 
 ---
 
@@ -137,10 +143,10 @@ None of these starting points makes your conclusions right or wrong. They just m
 
 ### 1.4 WHAT YOU DON'T HAVE TO KNOW YET
 
-You don't have to know whether God exists.
-You don't have to know what you'll tell your parents.
-You don't have to know whether you'll ever go back to church, or a church, or any building with a steeple.
-You don't have to know what happens when you die.
+- You don't have to know whether God exists.
+- You don't have to know what you'll tell your parents.
+- You don't have to know whether you'll ever go back to church, or a church, or any building with a steeple.
+- You don't have to know what happens when you die.
 
 For the next thirty days, the only job is to keep yourself steady enough to think about those questions later. If you want to think about them now, go ahead. But you're allowed to say, "Not this month."
 

@@ -55,7 +55,7 @@ What may change is how you handle the harder cases: the ones where your old rule
 
 Whatever else it did, church usually gave people a ready-made community: people who saw you every week, knew your name, brought meals when you were sick, and showed up to your kid's graduation. Many people don't realize how much of their social life ran through church until they leave and their calendar goes silent.
 
-That isn't a small thing. In 2023 the US Surgeon General, Dr. Vivek Murthy, issued an advisory on what he called an epidemic of loneliness and isolation, describing social connection as a basic human need with measurable effects on health. Losing your community at the same time as your beliefs is a double hit.
+That isn't a small thing. In May 2023 the US Surgeon General, Dr. Vivek Murthy, issued an advisory on what he called an epidemic of loneliness and isolation. It describes social connection as "a fundamental human need" with measurable effects on health. Losing your community at the same time as your beliefs is a double hit.
 
 ### 12.2 WHERE PEOPLE FIND COMMUNITY AFTERWARD
 
@@ -70,7 +70,7 @@ There's no single replacement, and most people end up with a patchwork. Options 
 
 ### 12.3 WHY IT TAKES SO LONG
 
-Adult friendship research suggests it takes a lot of hours together before an acquaintance becomes a close friend. Church gave you those hours automatically. Now you have to choose them. That's why "join something weekly" is more useful advice than "make friends."
+Friendship research suggests it takes a lot of hours together before an acquaintance becomes a close friend. In one widely cited study, the communication researcher Jeffrey Hall estimated that it took more than 200 hours together, on average, to become close friends. Church gave you those hours automatically. Now you have to choose them. That's why "join something weekly" is more useful advice than "make friends."
 
 ### WRITE IN THIS BOOK
 
@@ -96,15 +96,16 @@ In the US, the words "counselor" and "therapist" can mean very different things.
 
 | Credential | What it means |
 |---|---|
-| **LPC / LMHC** | Licensed Professional Counselor / Licensed Mental Health Counselor |
+| **LPC / LMHC** | Licensed Professional Counselor / Licensed Mental Health Counselor (titles vary by state, e.g., LPCC in California) |
 | **LMFT** | Licensed Marriage and Family Therapist |
 | **LCSW** | Licensed Clinical Social Worker |
-| **PsyD / PhD** | Licensed psychologist |
-| **MD** | Psychiatrist (can prescribe medication) |
+| **Psychologist (PhD or PsyD)** | Doctoral degree in psychology plus a state license. Look for the words "licensed psychologist." |
+| **Psychiatrist (MD or DO)** | Medical doctor with specialty training in psychiatry; can prescribe medication |
+| **PMHNP** | Psychiatric-mental health nurse practitioner; can prescribe in most states |
 
 **"Christian counseling"** can mean a licensed therapist who is also a Christian and integrates faith when the client wants it. Some are excellent.
 
-**"Biblical counseling"** (also called "nouthetic counseling," a movement started by Jay Adams in the 1970s) usually means something different: counseling based on the view that Scripture alone is sufficient for emotional problems. Many biblical counselors are certified by religious organizations rather than licensed by the state, which means they may not be bound by the same professional and ethical rules. If you're leaving a faith, a counselor whose goal is to bring you back to it is not neutral help.
+**"Biblical counseling"** (also called "nouthetic counseling," a movement launched by Jay Adams's 1970 book *Competent to Counsel*) usually means something different: counseling based on the view that Scripture alone is sufficient for emotional problems. Many biblical counselors are certified by religious organizations rather than licensed by the state, which means they may not be bound by the same professional and ethical rules. If you're leaving a faith, a counselor whose goal is to bring you back to it is not neutral help.
 
 ### 13.3 QUESTIONS TO ASK A THERAPIST
 
@@ -127,7 +128,9 @@ A good therapist won't be offended by any of these. If someone is, that tells yo
 
 ### 13.5 A WORD ON CONVERSION THERAPY
 
-If you're LGBTQ+, be aware that "conversion therapy" (efforts to change sexual orientation or gender identity) is still offered in some religious settings, sometimes under other names like "reintegrative therapy" or "unwanted same-sex attraction" counseling. Major medical and mental health associations in the US oppose it. Laws restricting it vary by state and country, and they've been the subject of recent court cases, so check the current situation where you live.
+If you're LGBTQ+, be aware that "conversion therapy" (efforts to change sexual orientation or gender identity) is still offered in some religious settings, sometimes under names that critics identify as rebrands, such as "reintegrative therapy" or counseling for "unwanted same-sex attraction." Major US medical and mental health associations oppose it, including the American Psychological Association and the American Academy of Pediatrics.
+
+The legal picture is changing. In March 2026, in *Chiles v. Salazar*, the US Supreme Court ruled 8–1 that Colorado's ban, as applied to a counselor's talk therapy, restricts speech and must meet a stricter First Amendment test. It sent the case back to the lower courts, and similar laws in other states are being challenged. The ruling was about free speech. It did not find conversion therapy safe or effective. Laws differ by state and country, so check the current situation where you live.
 
 ### WRITE IN THIS BOOK
 
@@ -143,7 +146,7 @@ If you're LGBTQ+, be aware that "conversion therapy" (efforts to change sexual o
 
 ### 14.1 YOU'RE IN A BIG CROWD
 
-The share of American adults who don't identify with any religion has grown a great deal in recent decades. The Pew Research Center now counts roughly three in ten US adults as religious "nones": atheists, agnostics, and people who describe their religion as "nothing in particular." Many others have changed denominations, moved from evangelical to mainline churches, or changed how they practice while keeping a religious identity.
+The share of American adults who don't identify with any religion grew a great deal from the 1990s through the 2010s, and has recently leveled off. The Pew Research Center now counts roughly three in ten US adults as religious "nones" (29 percent in its 2023–24 Religious Landscape Study): atheists, agnostics, and people who describe their religion as "nothing in particular." Many others have switched to a different religious tradition, or changed how they practice while keeping a religious identity.
 
 Whatever you decide, you won't be alone.
 
@@ -259,21 +262,25 @@ You can do another ninety. Some people restart the workbook from Day 1 and are s
 **Chapter 11**
 - Aristotle, *Nicomachean Ethics*.
 - Immanuel Kant, *Groundwork of the Metaphysics of Morals* (1785).
-- John Stuart Mill, *Utilitarianism* (1861); Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation* (1789).
-- Carol Gilligan, *In a Different Voice* (Harvard University Press, 1982); Nel Noddings, *Caring: A Feminine Approach to Ethics and Moral Education* (University of California Press, 1984).
-- Thomas Aquinas, *Summa Theologiae*, I–II (on the virtues).
+- John Stuart Mill, *Utilitarianism* (serialized 1861; book edition 1863); Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation* (printed 1780; published 1789).
+- Carol Gilligan, *In a Different Voice: Psychological Theory and Women's Development* (Harvard University Press, 1982); Nel Noddings, *Caring: A Feminine Approach to Ethics and Moral Education* (University of California Press, 1984).
+- Thomas Aquinas, *Summa Theologiae*, I–II, qq. 55–67 (on the virtues).
 
 **Chapter 12**
-- Office of the US Surgeon General, *Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General's Advisory on the Healing Effects of Social Connection and Community* (2023).
-- Jeffrey A. Hall, "How Many Hours Does It Take to Make a Friend?" *Journal of Social and Personal Relationships* 36, no. 4 (2019): 1278–1296. VERIFY before citing a specific hours figure in the text (the current text cites no number on purpose).
+- Office of the US Surgeon General, *Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General's Advisory on the Healing Effects of Social Connection and Community* (May 2023), hhs.gov.
+- Jeffrey A. Hall, "How Many Hours Does It Take to Make a Friend?" *Journal of Social and Personal Relationships* 36, no. 4 (2019). doi:10.1177/0265407518761225. The 200-hour figure is the study's average for close friendship, as reported by the University of Kansas and Greater Good. CONFIRM PAGE RANGE ON PUBLISHER PAGE.
 
 **Chapter 13**
-- State licensing titles vary; descriptions here are general. VERIFY against one national source (e.g., the American Counseling Association or the US Bureau of Labor Statistics occupational outlook).
-- Jay E. Adams, *Competent to Counsel* (Presbyterian and Reformed, 1970), the founding text of nouthetic/biblical counseling.
-- Position statements against conversion therapy: American Psychological Association (2021 resolution) and American Academy of Pediatrics. VERIFY current statements and the current state of US court rulings before printing.
+- US Bureau of Labor Statistics, *Occupational Outlook Handbook*: "Psychologists" and "Substance Abuse, Behavioral Disorder, and Mental Health Counselors," bls.gov. American Psychiatric Association, "What Is Psychiatry?" psychiatry.org. National Alliance on Mental Illness, "Types of Mental Health Professionals," nami.org.
+- Jay E. Adams, *Competent to Counsel* (Nutley, NJ: Presbyterian and Reformed, 1970), the founding text of nouthetic/biblical counseling.
+- Association of Certified Biblical Counselors, certification FAQ, biblicalcounseling.com (certification separate from state licensure).
+- American Psychological Association, *Resolution on Sexual Orientation Change Efforts* and *Resolution on Gender Identity Change Efforts* (both February 2021), apa.org.
+- American Academy of Pediatrics, "Office-Based Care for Lesbian, Gay, Bisexual, Transgender, and Questioning Youth," *Pediatrics* 132, no. 1 (2013): 198ff.
+- *Chiles v. Salazar*, No. 24-539 (US Supreme Court, decided March 31, 2026). RE-CHECK THE REMAND STATUS BEFORE PRINTING.
 
 **Chapter 14**
-- Pew Research Center, "Religious 'Nones' in America: Who They Are and What They Believe" (January 2024), and the Pew Religious Landscape Study (2025). VERIFY the exact percentage before printing and update the "roughly three in ten" wording if needed.
+- Pew Research Center, "Religious 'Nones' in America: Who They Are and What They Believe" (January 24, 2024): 28 percent.
+- Pew Research Center, *Religious Landscape Study* (conducted 2023–24; published February 26, 2025): 29 percent; and "Decline of Christianity in the U.S. Has Slowed, May Have Leveled Off" (February 26, 2025).
 
 **Chapter 15**
 - No outside claims.

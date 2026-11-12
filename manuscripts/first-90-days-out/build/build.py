@@ -154,7 +154,7 @@ def convert(body_md: str, draft: bool):
 
     doc = "\n".join(out)
     if draft:
-        doc = re.sub(r"(VERIFY[^<.;]*)", r'<mark>\1</mark>', doc)
+        doc = re.sub(r"((?:VERIFY|CHECK|CONFIRM|RE-CHECK)[A-Z0-9 ,'’\-]*[A-Z])", r'<mark>\1</mark>', doc)
         doc = re.sub(r"(\[[A-Z][A-Z ,:'.\-]{3,}\])", r'<mark>\1</mark>', doc)
     return doc, toc
 

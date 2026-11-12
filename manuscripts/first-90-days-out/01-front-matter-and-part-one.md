@@ -416,7 +416,7 @@ One prompt per day. Write the date at the top of each page. If you skip a day, s
 
 ## SOURCES · PART ONE
 
-*Format to match Unbound's chapter-end sources sections. Items marked VERIFY need a final check before printing.*
+*Format to match Unbound's chapter-end sources sections. Items in capitals need a final check against a print copy or live page before printing.*
 
 **Chapter 1**
 - Jacques Derrida, *De la grammatologie* (Paris: Minuit, 1967); *Of Grammatology*, trans. Gayatri Chakravorty Spivak (Johns Hopkins University Press, 1976).

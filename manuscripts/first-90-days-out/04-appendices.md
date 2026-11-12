@@ -10,16 +10,16 @@
 
 | Service | Who it's for | How to reach it |
 |---|---|---|
-| 988 Suicide & Crisis Lifeline | Anyone in the US | Call or text 988; chat at 988lifeline.org |
+| 988 Suicide & Crisis Lifeline | Anyone in the US | Call or text 988; chat at 988lifeline.org. LGBTQ+ people under 25: press 3. Spanish: press 2 |
 | The Trevor Project | LGBTQ+ young people under 25 | Call 1-866-488-7386; text START to 678678 |
-| Trans Lifeline | Trans people in the US and Canada | Call 877-565-8860 |
-| Crisis Text Line | Anyone in the US | Text HOME to 741741 |
-| Find A Helpline | Every other country | findahelpline.com |
+| Trans Lifeline | Peer support by and for trans people | US 877-565-8860; Canada 877-330-6366. Limited weekday hours; check translifeline.org |
+| Crisis Text Line | US (Canada: text CONNECT to 686868; UK: text SHOUT to 85258) | Text HOME to 741741 |
+| Find A Helpline | Outside the US | findahelpline.com (free directory of helplines in more than 130 countries) |
 
 ### If you're not in crisis but need support
 
 - **A licensed therapist.** See Chapter 13 for how to find one.
-- **Peer support for people leaving religion.** Several nonprofit organizations run online and local peer support groups and maintain directories of therapists who are experienced with religious trauma. VERIFY current names and URLs before printing.
+- **Peer support for people leaving religion.** Recovering from Religion (recoveringfromreligion.org) runs a free peer-support line and peer groups, staffed by trained volunteers rather than therapists. Its Secular Therapy Project (seculartherapy.org) matches people with licensed therapists who practice without religious content. Journey Free (journeyfree.org), founded by Marlene Winell, offers paid, professionally led recovery groups.
 - **LGBTQ+ community centers.** Many cities have one. They're often a good first stop for support groups, health resources, and housing help.
 - **Your doctor.** If sleep, appetite, or mood has changed, a primary care visit is a reasonable first step.
 
@@ -57,7 +57,7 @@
 
 **Nones.** People who don't identify with any religion. A survey category, not a belief system.
 
-**Purity culture.** The evangelical movement emphasizing sexual abstinence before marriage, especially in the 1990s and 2000s (Chapter 8).
+**Purity culture.** The evangelical movement emphasizing sexual abstinence before marriage, especially in the 1990s and early 2000s (Chapter 8).
 
 **Religious trauma.** Lasting harm from religious beliefs, practices, or communities. Not a formal diagnosis (Chapter 2).
 
@@ -124,10 +124,10 @@ Yes, with one person at a time. Please don't post or redistribute it in bulk.
 
 - **Linda Kay Klein, *Pure* (2018).** Interviews with women raised in purity culture, alongside the author's own story. Essential if Chapter 8 hit hard.
 - **Pauline Boss, *Ambiguous Loss* (1999).** Short, readable, and widely used by therapists. Written about many kinds of unresolved loss, not religion specifically, but the fit is close.
-- **Brian McLaren, *Faith After Doubt* (2021).** Written by a pastor for people who want to keep some form of faith through doubt.
+- **Brian McLaren, *Faith After Doubt* (2021).** Written by a former pastor for people who want to keep some form of faith through doubt.
 - **David Burns, *Feeling Good* (1980).** A classic self-help introduction to cognitive therapy, including all-or-nothing thinking.
 - **Sheila Wray Gregoire et al., *The Great Sex Rescue* (2021).** Survey-based critique of evangelical sex teaching, written from inside evangelicalism.
-- **Marlene Winell, *Leaving the Fold* (1993).** An early guide for people leaving fundamentalist religion, by the psychologist who later described Religious Trauma Syndrome. VERIFY edition details.
+- **Marlene Winell, *Leaving the Fold: A Guide for Former Fundamentalists and Others Leaving Their Religion* (New Harbinger, 1993).** An early guide for people leaving fundamentalist religion, by the psychologist who later coined the term "Religious Trauma Syndrome" (2011).
 - **What They Skipped guides.** *Unbound* for the passages used against LGBTQ+ people; *What They Actually Taught You* for ten evangelical doctrines and their history.
 
 ---
@@ -136,13 +136,17 @@ Yes, with one person at a time. Please don't post or redistribute it in bulk.
 
 *Full list compiled from the chapter source sections. Format in the same style as Unbound's Works Cited.*
 
-Adams, Jay E. *Competent to Counsel.* Presbyterian and Reformed, 1970.
+Adams, Jay E. *Competent to Counsel.* Nutley, NJ: Presbyterian and Reformed, 1970.
+
+American Academy of Pediatrics. "Office-Based Care for Lesbian, Gay, Bisexual, Transgender, and Questioning Youth." *Pediatrics* 132, no. 1 (2013).
+
+American Psychological Association. *Resolution on Sexual Orientation Change Efforts* and *Resolution on Gender Identity Change Efforts.* February 2021.
 
 Aquinas, Thomas. *Summa Theologiae.*
 
 Aristotle. *Nicomachean Ethics.*
 
-Beck, Aaron T. *Cognitive Therapy and the Emotional Disorders.* International Universities Press, 1976.
+Beck, Aaron T. *Cognitive Therapy and the Emotional Disorders.* New York: International Universities Press, 1976.
 
 Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation.* 1789.
 
@@ -150,41 +154,51 @@ Boss, Pauline. *Ambiguous Loss: Learning to Live with Unresolved Grief.* Harvard
 
 Burns, David D. *Feeling Good: The New Mood Therapy.* William Morrow, 1980.
 
+*Chiles v. Salazar*, No. 24-539 (U.S. Supreme Court, March 31, 2026).
+
 Derrida, Jacques. *Of Grammatology.* Trans. Gayatri Chakravorty Spivak. Johns Hopkins University Press, 1976.
 
-Fowler, James W. *Stages of Faith.* Harper & Row, 1981.
+Fowler, James W. *Stages of Faith: The Psychology of Human Development and the Quest for Meaning.* San Francisco: Harper & Row, 1981.
 
-Gilligan, Carol. *In a Different Voice.* Harvard University Press, 1982.
+Gilligan, Carol. *In a Different Voice: Psychological Theory and Women's Development.* Harvard University Press, 1982.
 
-Gregoire, Sheila Wray, Rebecca Gregoire Lindenbach, and Joanna Sawatsky. *The Great Sex Rescue.* Baker Books, 2021.
+Gregoire, Sheila Wray, Rebecca Gregoire Lindenbach, and Joanna Sawatsky. *The Great Sex Rescue: The Lies You've Been Taught and How to Recover What God Intended.* Baker Books, 2021.
 
-Hall, Jeffrey A. "How Many Hours Does It Take to Make a Friend?" *Journal of Social and Personal Relationships* 36, no. 4 (2019): 1278–1296.
+Hall, Jeffrey A. "How Many Hours Does It Take to Make a Friend?" *Journal of Social and Personal Relationships* 36, no. 4 (2019). doi:10.1177/0265407518761225.
 
 Harris, Joshua. *I Kissed Dating Goodbye.* Multnomah, 1997.
 
 Kant, Immanuel. *Groundwork of the Metaphysics of Morals.* 1785.
 
-Klein, Linda Kay. *Pure.* Touchstone, 2018.
+Klein, Linda Kay. *Pure: Inside the Evangelical Movement That Shamed a Generation of Young Women and How I Broke Free.* Touchstone, 2018.
 
 Kübler-Ross, Elisabeth. *On Death and Dying.* Macmillan, 1969.
 
-Kübler-Ross, Elisabeth, and David Kessler. *On Grief and Grieving.* Scribner, 2005.
+Kübler-Ross, Elisabeth, and David Kessler. *On Grief and Grieving: Finding the Meaning of Grief Through the Five Stages of Loss.* Scribner, 2005.
 
-McLaren, Brian D. *Faith After Doubt.* St. Martin's Essentials, 2021.
+McLaren, Brian D. *Faith After Doubt: Why Your Beliefs Stopped Working and What to Do About It.* St. Martin's Essentials, 2021.
 
-Mill, John Stuart. *Utilitarianism.* 1861.
+Mill, John Stuart. *Utilitarianism.* 1861 (book edition 1863).
 
-Noddings, Nel. *Caring.* University of California Press, 1984.
+Noddings, Nel. *Caring: A Feminine Approach to Ethics and Moral Education.* University of California Press, 1984.
 
-Office of the US Surgeon General. *Our Epidemic of Loneliness and Isolation.* 2023.
+Office of the US Surgeon General. *Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General's Advisory on the Healing Effects of Social Connection and Community.* 2023.
 
-Pew Research Center. "Religious 'Nones' in America: Who They Are and What They Believe." January 2024.
+Pew Research Center. *Religious Landscape Study.* Conducted 2023–24; published February 26, 2025.
 
-Slade, Darren M., Adrianna Smell, Elizabeth Wilson, and Rebekah Drumsta. "Percentage of U.S. Adults Suffering from Religious Trauma: A Sociological Study." *Socio-Historical Examination of Religion and Ministry* 5, no. 1 (2023): 1–28.
+Pew Research Center. "Religious 'Nones' in America: Who They Are and What They Believe." January 24, 2024.
 
-Stroebe, Margaret, and Henk Schut. "The Dual Process Model of Coping with Bereavement." *Death Studies* 23, no. 3 (1999): 197–224.
+Pew Research Center. "Views on the Afterlife." November 23, 2021.
 
-Winell, Marlene. "Religious Trauma Syndrome." *Cognitive Behaviour Therapy Today* 39, nos. 2–4 (2011).
+Slade, Darren M., Adrianna Smell, Elizabeth Wilson, and Rebekah Drumsta. "Percentage of U.S. Adults Suffering from Religious Trauma: A Sociological Study." *Socio-Historical Examination of Religion and Ministry* 5, no. 1 (2023): 1–28. doi:10.33929/sherm.2023.vol5.no1.01.
+
+Sprinkle, Preston, gen. ed. *Four Views on Hell.* 2nd ed. Zondervan, 2016.
+
+Stroebe, Margaret, and Henk Schut. "The Dual Process Model of Coping with Bereavement: Rationale and Description." *Death Studies* 23, no. 3 (1999): 197–224.
+
+Winell, Marlene. *Leaving the Fold: A Guide for Former Fundamentalists and Others Leaving Their Religion.* Oakland, CA: New Harbinger, 1993.
+
+Winell, Marlene. "Religious Trauma Syndrome" (three-part series). *CBT Today* 39, nos. 2–4 (May, September, November 2011). British Association for Behavioural and Cognitive Psychotherapies.
 
 ---
 
@@ -222,7 +236,7 @@ If you find an error, write to hello@whattheyskipped.com. Corrections will be ma
 
 The guides at What They Skipped cover what evangelical education left out, with sources.
 
-**Unbound.** A scholar's guide to the seven passages used against LGBTQ+ Christians: word studies, translation history, and the 1946 decision that put "homosexual" into English Bibles.
+**Unbound.** A scholar's guide to the seven passages used against LGBTQ+ Christians: word studies, translation history, and the 1946 Revised Standard Version, which brought the word "homosexuals" into a major English Bible.
 
 **What They Actually Taught You.** Ten evangelical doctrines, where they came from, and what the history shows.
 

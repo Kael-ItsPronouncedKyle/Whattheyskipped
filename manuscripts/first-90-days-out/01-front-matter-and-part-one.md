@@ -295,7 +295,7 @@ If you were taught about hell as a child, you heard about it before you could ev
 These don't settle the question. They loosen the grip.
 
 1. **Christians have never been unanimous about hell.** Eternal conscious punishment has been the majority view for most of church history, but serious Christian thinkers have also held annihilation (the wicked cease to exist) and universal reconciliation (everyone is eventually restored). All three have published defenders today. Eternal punishment is still the official position of most large denominations; annihilation is a recognized minority view among evangelicals; universal reconciliation has prominent defenders but is officially rejected by the largest churches.
-2. **The English word "hell" translates several different words.** The Hebrew Bible's *Sheol* is the realm of the dead, where everyone goes, good or bad. The New Testament uses *Hades*, *Gehenna* (named after the Valley of Hinnom outside Jerusalem), and once a verb form of *Tartarus* (2 Peter 2:4). The King James Version used the single English word "hell" for Gehenna, Hades, the Tartarus verse, and about half the occurrences of Sheol. That blurred distinctions the original languages keep, and later translations such as the American Standard Version (1901) restored some of them.
+2. **The English word "hell" translates several different words.** The Hebrew Bible's *Sheol* is the realm of the dead, where everyone goes, good or bad. The New Testament uses *Hades*, *Gehenna* (named after the Valley of Hinnom outside Jerusalem), and once a verb form of *Tartarus* (2 Peter 2:4). The King James Version used the single English word "hell" for every Gehenna, ten of the eleven Hades passages, the Tartarus verse, and about half the occurrences of Sheol. That blurred distinctions the original languages keep, and later translations, starting with the English Revised Version (1881–85) and the American Standard Version (1901), restored some of them.
 3. **Fear is not evidence.** How afraid you feel tells you about your training, not about the afterlife.
 4. **Many people who believe in God don't believe in hell.** In a 2021 Pew Research Center survey, 91 percent of American adults said they believe in God or a higher power, but only 62 percent said they believe in hell. You don't have to resolve the whole God question to set this particular fear down.
 
@@ -437,7 +437,7 @@ One prompt per day. Write the date at the top of each page. If you skip a day, s
 **Chapter 4**
 - Francis Brown, S. R. Driver, and Charles A. Briggs, *A Hebrew and English Lexicon of the Old Testament* (Oxford: Clarendon, 1906), s.v. *she'ol*.
 - Walter Bauer, Frederick W. Danker, et al., *A Greek-English Lexicon of the New Testament and Other Early Christian Literature*, 3rd ed. (University of Chicago Press, 2000), s.v. *hadēs*, *geenna*, *tartaroō*.
-- KJV renderings of *Sheol* (hell 31, grave 31, pit 3) per standard concordances (e.g., Blue Letter Bible, H7585).
+- KJV renderings of *Sheol* (hell 31, grave 31, pit 3) and *Hades* (hell 10, grave 1) per standard concordances (e.g., Blue Letter Bible, H7585 and G86).
 - Preston Sprinkle, gen. ed., *Four Views on Hell*, 2nd ed. (Zondervan, 2016). Contributors: Denny Burk (eternal conscious torment), John G. Stackhouse Jr. (annihilationism), Robin A. Parry (universalism), Jerry L. Walls (purgatory).
 - Evangelical Alliance (UK), ACUTE, *The Nature of Hell* (2000), describing annihilationism as a significant minority evangelical view.
 - Pew Research Center, "Views on the Afterlife" (November 23, 2021).

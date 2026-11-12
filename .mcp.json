@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "willo-what-they": {
+      "type": "http",
+      "url": "https://api.willo.ai/mcp"
+    }
+  }
+}
